@@ -1,4 +1,5 @@
 xjsxj
-=====
+==============
 
-自己的博客主题
+wordpress 博客的模板主题 ，可查看在线博客<http://www.xjsxj.com/>
+
