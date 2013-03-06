@@ -50,7 +50,7 @@
                 <ul >
 				<?php /* Our navigation menu.  If one isn't filled out, wp_nav_menu falls back to wp_page_menu.  The menu assiged to the primary position is the one used.  If none is assigned, the menu with the lowest ID is used.  */ ?>
                 <?php wp_nav_menu( array( 'container' => '', 'items_wrap' => '%3$s') ); ?>
-                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://blog.xjsxj.com/girl">女儿徐欣然</a></li>
+                <li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="<?php bloginfo('url'); ?>/girl">女儿徐欣然</a></li>
                 </ul>
 			</div>
 		</div>
